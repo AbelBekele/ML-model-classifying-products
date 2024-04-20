@@ -1,1 +1,11 @@
+# virtual environment
+
 .venv
+kaggle.json
+content
+datasets
+.env
+mlruns
+model
+model_17*
+__pycache__
